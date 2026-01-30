@@ -10,7 +10,7 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: 'Paolo '
+  - given-names: Paolo
     family-names: Ciracì
     email: lycos2101@gmail.com
     affiliation: Università degli Studi di Torino
