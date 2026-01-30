@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Gibbs Sampler for hierarchical and non hierarchical Gnedin
+  Process applications
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Paolo '
+    family-names: Ciracì
+    email: lycos2101@gmail.com
+    affiliation: Università degli Studi di Torino
+repository-code: >-
+  https://github.com/Paul2189/Gibbs-Sampler-for-hierarchical-and-non-hierarchical-Gnedin-Process-applications.git
