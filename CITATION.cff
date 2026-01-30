@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Gibbs Sampler for hierarchical and non hierarchical Gnedin
+  Gibbs Sampler for hierarchical and non-hierarchical Gnedin
   Process applications
 message: >-
   If you use this software, please cite it using the
